@@ -1,5 +1,5 @@
 <h1 align="center"> 30-Days-of-GCP ☁️</h1>
-<img src="30daysofGCP.jpg" width="100%">
+<img src="Resources/30daysofGCP.png" width="100%">
 <br>
 <h2 align="center">About 👀</h2>
  <br> 
@@ -48,7 +48,7 @@ There will be two tracks :
 - Google Cloud T-shirt👕
 - Laptop bag
 - Water bottle
-<img src="Reward.png" width="100%">
+<img src="Resources/Reward.png" width="100%">
 
 
  
