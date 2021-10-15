@@ -1,6 +1,7 @@
 <h1 align="center"> 30-Days-of-GCP ☁️</h1>
-
-<h2>About 👀</h2>
+<img src="30daysofGCP.jpg" width="100%">
+<br>
+<h2 align="center">About 👀</h2>
  <br> 
 Google Cloud in collaboration with Developer Students Club (DSC) provides an opportunity to students to start their journey in cloud programming with hands-on labs on Google Cloud Platform that powers apps like Google Search, Gmail, and YouTube.
 30 Days of Google Cloud program will introduce you to concepts such as Computing, Application Development, Big Data & Machine Learning using Google Cloud’s training platform ‘Qwiklabs’ where you will learn each of these topics using self-paced labs.
@@ -40,6 +41,14 @@ There will be two tracks :
 6)[Explore Machine Learning Models with Explainable AI](https://google.qwiklabs.com/quests/126?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 <br>
 <br>
+
+# Rewards🥇
+- For beginners this is the great opportunity to deep-dive into the Google cloud and learn about it.
+- Laptop stickers
+- Google Cloud T-shirt👕
+- Laptop bag
+- Water bottle
+<img src="Reward.png" width="100%">
 
 
  
