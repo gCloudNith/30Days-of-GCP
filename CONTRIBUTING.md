@@ -1,4 +1,4 @@
-<img src="Resources/FAQ.png" width="30%" height="50%">
+<img src="Resources/images/FAQ.png" width="30%" height="50%">
 
 
 #### 	💥What is Pull Request ?
