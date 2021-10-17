@@ -1,3 +1,5 @@
+<img src="Resources/images/Create-and-Manage-Cloud-Resources-Challenge-Lab.png" width="100%">
+
 # Task 1: Create a project jumphost instance
 ## Using cloud shell
 
