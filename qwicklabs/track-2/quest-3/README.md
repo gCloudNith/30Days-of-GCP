@@ -245,8 +245,7 @@ The data must be added to your report.
 - Add ```country_cases``` and ```country_deaths``` to the ```Metric``` field.
 
 - Your graph must resemble the one shown below:
-
-![](./Resources/images/t2q3.png)
+<img src="../../../Resources/images/t2q3.png" width="100%">
 
 - Click on ```Save``` to commit the change.
 
