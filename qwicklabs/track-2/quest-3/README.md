@@ -201,21 +201,9 @@ from summary
 ```
 The query should calculate the CDGR on May 10, 2020(Cumulative Daily Growth Rate) for France since the day the first case was reported.
 
-## Step 9: Create a Datastudio report
-- Click on compose new query and then copy and paste the following query into the BigQuery Query editor.
-```
-SELECT
-  date, SUM(cumulative_confirmed) AS country_cases,
-  SUM(cumulative_deceased) AS country_deaths
-FROM
-  `bigquery-public-data.covid19_open_data.covid19_open_data`
-WHERE
-  date BETWEEN '2020-03-15'
-  AND '2020-04-30'
-  AND country_name='United States of America'
-GROUP BY date
-```
-- Open Data Studio using Gcloud credentials.
+## Step 10: Create a Datastudio report
+
+- Open Data Studio using GCloud credentials.
 
 Note: If you are accessing Data studio for the first time then you might be asked to fill your basic info and mailing preferences. Please fill your country name, accept the terms and conditions and select No for all 3 mailing preferences.
 
