@@ -1,4 +1,4 @@
-# Perform Foundational Infrastructure Tasks in Google Cloud
+# Deploy and Manage Cloud Environments with Google Cloud
 
 _Note: It is highly recommended that you __try__ to complete the objectives either twice or thrice before visiting the solutions._
 
