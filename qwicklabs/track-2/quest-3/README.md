@@ -207,13 +207,13 @@ The query should calculate the CDGR on May 10, 2020(Cumulative Daily Growth Rate
 
 Note: If you are accessing Data studio for the first time then you might be asked to fill your basic info and mailing preferences. Please fill your country name, accept the terms and conditions and select No for all 3 mailing preferences.
 
-- Now open a blank report.
+- Now open a ```blank report```.
 
-- Click on add Data to report > BigQuery
+- Click on ```Add Data to report``` > ```BigQuery```
 
-- Authorize
+- ```Authorize```
 
-- Select custom Query > YOUR_GCP_PROJECT_ID and enter the following query
+- Select ```custom Query ```> ```YOUR_GCP_PROJECT_ID``` and enter the following query:
 ```
 SELECT
   date, SUM(cumulative_confirmed) AS country_cases,
